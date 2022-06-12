@@ -1,6 +1,5 @@
 # Ruby on Rails, Typescript React template
 
-Internal project template for ExploratorLabs.
 This template is built with the following features, tools, and frameworks
 
 - [Node 16.13.0](https://nodejs.org/en/about/)
